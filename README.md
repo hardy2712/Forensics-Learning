@@ -1,7 +1,11 @@
 # Forensics Artifacts
 
 Amchache Parser -> it will be used in sharing the recent execution of data which will store the cache of all what has run and what has came in machine it stores the SHA-1 , parent version 
+
+
 **Execution Flags**: AMCache records execution flags for programs, which indicate the compatibility settings applied during execution. These flags provide information about how the program was run, such as compatibility mode, administrator privileges, or other settings.
+
+
 
 File Sizes: AMCache includes information about the sizes of executed files. This data can help identify suspicious or unusual file sizes associated with executed programs.
 
